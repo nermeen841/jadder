@@ -1,0 +1,81 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: constant_identifier_names
+
+abstract class  LocaleKeys {
+  static const browse_the_new_season = 'browse_the_new_season';
+  static const apptitle = 'apptitle';
+  static const latest_abayas = 'latest_abayas';
+  static const shop_the_best_abaya_styles = 'shop_the_best_abaya_styles';
+  static const home = 'home';
+  static const account = 'account';
+  static const categories = 'categories';
+  static const orders = 'orders';
+  static const help = 'help';
+  static const best_seller = 'best_seller';
+  static const abayas_classifications = 'abayas_classifications';
+  static const prayer_sheets = 'prayer_sheets';
+  static const abayas_at_special_prices = 'abayas_at_special_prices';
+  static const niqabs = 'niqabs';
+  static const search_for_products = 'search_for_products';
+  static const sign_out = 'sign_out';
+  static const vat_cetificates = 'vat_cetificates';
+  static const user_name = 'user_name';
+  static const password = 'password';
+  static const login = 'login';
+  static const sign_up = 'sign_up';
+  static const remember_me = 'remember_me';
+  static const forget_password = 'forget_password';
+  static const hello = 'hello';
+  static const wallet = 'wallet';
+  static const addresses = 'addresses';
+  static const wish_list = 'wish_list';
+  static const account_details = 'account_details';
+  static const order_and_exchange_policy = 'order_and_exchange_policy';
+  static const close_account = 'close_account';
+  static const replacement_requiests = 'replacement_requiests';
+  static const your_current_palance = 'your_current_palance';
+  static const available_to_use_in_orders = 'available_to_use_in_orders';
+  static const bill_address = 'bill_address';
+  static const add = 'add';
+  static const address = 'address';
+  static const shipping_address = 'shipping_address';
+  static const first_name = 'first_name';
+  static const last_name = 'last_name';
+  static const email = 'email';
+  static const save = 'save';
+  static const change_password = 'change_password';
+  static const alert = 'alert';
+  static const are_you_sure = 'are_you_sure';
+  static const confirm = 'confirm';
+  static const there_are_no_requiests = 'there_are_no_requiests';
+  static const current_orders = 'current_orders';
+  static const finished_orders = 'finished_orders';
+  static const product_sorting = 'product_sorting';
+  static const cancel = 'cancel';
+  static const phone_number = 'phone_number';
+  static const please_enter_phone = 'please_enter_phone';
+  static const send = 'send';
+  static const reset_new_password = 'reset_new_password';
+  static const please_add_code = 'please_add_code';
+  static const code_sent = 'code_sent';
+  static const new_password = 'new_password';
+  static const confirm_password = 'confirm_password';
+  static const accept_all_conditions_and_terms = 'accept_all_conditions_and_terms';
+  static const total = 'total';
+  static const tax_inclusive = 'tax_inclusive';
+  static const product_code = 'product_code';
+  static const available = 'available';
+  static const size = 'size';
+  static const add_to_cart = 'add_to_cart';
+  static const classification = 'classification';
+  static const related_products = 'related_products';
+  static const is_gift = 'is_gift';
+  static const quantity = 'quantity';
+  static const name_is_required = 'name_is_required';
+  static const password_is_required = 'password_is_required';
+  static const email_is_required = 'email_is_required';
+  static const password_not_identical = 'password_not_identical';
+  static const required_field = 'required_field';
+
+}
